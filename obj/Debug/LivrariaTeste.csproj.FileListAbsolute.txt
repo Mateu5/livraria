@@ -1,0 +1,12 @@
+C:\C#\Livraria\LivrariaTeste\LivrariaTeste\bin\Debug\LivrariaTeste.exe.config
+C:\C#\Livraria\LivrariaTeste\LivrariaTeste\bin\Debug\LivrariaTeste.exe
+C:\C#\Livraria\LivrariaTeste\LivrariaTeste\bin\Debug\LivrariaTeste.pdb
+C:\C#\Livraria\LivrariaTeste\LivrariaTeste\obj\Debug\LivrariaTeste.csproj.AssemblyReference.cache
+C:\C#\Livraria\LivrariaTeste\LivrariaTeste\obj\Debug\LivrariaTeste.csproj.SuggestedBindingRedirects.cache
+C:\C#\Livraria\LivrariaTeste\LivrariaTeste\obj\Debug\LivrariaTeste.Login.resources
+C:\C#\Livraria\LivrariaTeste\LivrariaTeste\obj\Debug\LivrariaTeste.Properties.Resources.resources
+C:\C#\Livraria\LivrariaTeste\LivrariaTeste\obj\Debug\LivrariaTeste.csproj.GenerateResource.cache
+C:\C#\Livraria\LivrariaTeste\LivrariaTeste\obj\Debug\LivrariaTeste.csproj.CoreCompileInputs.cache
+C:\C#\Livraria\LivrariaTeste\LivrariaTeste\obj\Debug\LivrariaTeste.exe
+C:\C#\Livraria\LivrariaTeste\LivrariaTeste\obj\Debug\LivrariaTeste.pdb
+C:\C#\Livraria\LivrariaTeste\LivrariaTeste\obj\Debug\LivrariaTeste.Frm_Menu.resources
